@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "FireExinguisherReader",
+    "slug": "FireExinguisherReader",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "FireExinguisherReader"
+}
